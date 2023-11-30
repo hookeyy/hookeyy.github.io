@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+
+}
+
+
+h1 {
+    color: crimson;
+    margin-top: 2rem;
+  
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+p, a, h1 {
+    display: block;
+  }
+
+div.jens{
+    margin-top: 2.5rem;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+#john{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding: 1rem;
+    width: 15rem;
+    height: 2.5rem;
+    border-radius: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #1f1f1f;
+    margin: auto;
+
+
+}
+
+div.box{
+    margin-top: 2.5rem;
+    border-radius: 2rem;
+
+    margin: auto;
+    width: 50rem ;
+    height: 35rem;
+    color: #ffffff;
+    background-color: #1a1a1a;
+    
+}
+
+#text{
+
+margin-left: 5rem;
+text-align: left;
+font-family: 'Courier New', Courier, monospace;
+margin-top: 2rem;
+display: flex;
+padding-top: 2rem;
+
+
+}
+
+#img{
+
+    width: 45rem;
+    height: 25rem;
+    margin: auto;
+    margin-left: -6rem;
+    margin-top: 6rem;
+    border-radius: 3rem;
+}
+
+a.link{
+
+    margin-left: 3rem;
+    font-size:  30px;
+}
+
+p.link{
+
+    margin-left: 3rem;
+    font-size:  25px;
+}
+
+p.write{
+    color: blue;
+    margin-left: 3rem;
+    font-size:  20px;
+}
+
+#button{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    background-color: #4e4e4e;
+    width: 7rem;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 1.2rem;
+padding: 0.1rem;
+    border-radius: 0.5rem;
+    height: 3.5rem;
+}
