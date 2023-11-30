@@ -1,11 +1,12 @@
 body{
     background-color: black;
-
+    background-image: url("https://i.pinimg.com/564x/c6/8e/8c/c68e8c929428f50316219d0190a9ce0a.jpg");
+    background-repeat: repeat-y;
 }
 
 
 h1 {
-    color: crimson;
+    color: rgb(53, 220, 20);
     margin-top: 2rem;
   
     font-family: 'Courier New', Courier, monospace;
