@@ -1,0 +1,16 @@
+body{ 
+width: auto;
+height: auto;
+width: auto;
+background-color: black;
+}
+
+.video{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    align-content: center;
+    align-items: center;
+padding: 5rem;
+    text-align: center;
+}
